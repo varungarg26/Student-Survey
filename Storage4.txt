@@ -1,0 +1,43 @@
+
+12 Male MST 0-2 Computer_Science 2 Physics Chemistry 2 Advanced_Functions Calculus University 
+0 Others Non_MST 0-2 Choice_not_shown 3 Physics Chemistry None 3 Advanced_Functions Calculus None Neither 
+12 Female MST 3-5 Health_Medicine 6 Physics Chemistry None Physics Biology Chemistry 5 Advanced_Functions Calculus None Advanced_Functions Calculus University 
+12 Female Non_MST 0-2 Computer_Science 7 Physics Chemistry None Physics Biology Chemistry Physics 6 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions University 
+12 Male Non_MST 0-2 Business 8 Physics Chemistry None Physics Biology Chemistry Physics None 9 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus University 
+12 Prefer_not_to_say Non_MST 0-2 Business 9 Physics Chemistry None Physics Biology Chemistry Physics None None 11 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus University 
+12 Male Non_MST 11+ Computer_Science 12 Physics Chemistry None Physics Biology Chemistry Physics None None Physics Biology Chemistry 14 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus Advanced_Functions Data_Management Calculus University 
+11 Female MST 3-5 Business 1 None 15 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus Advanced_Functions Data_Management Calculus Advanced_Functions University 
+11 Female Non_MST 0-2 Health_Medicine 1 None 16 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus Advanced_Functions Data_Management Calculus Advanced_Functions Advanced_Functions University 
+11 Female MST 3-5 Not_sure 1 None 17 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus Advanced_Functions Data_Management Calculus Advanced_Functions Advanced_Functions None University 
+12 Female MST 0-2 Choice_not_shown 13 Physics Chemistry None Physics Biology Chemistry Physics None None Physics Biology Chemistry None 20 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus Advanced_Functions Data_Management Calculus Advanced_Functions Advanced_Functions None Advanced_Functions Data_Management Calculus Neither 
+12 Female MST 0-2 Not_sure 14 Physics Chemistry None Physics Biology Chemistry Physics None None Physics Biology Chemistry None None 21 Advanced_Functions Calculus None Advanced_Functions Calculus Advanced_Functions Advanced_Functions Data_Management Calculus Advanced_Functions Calculus Advanced_Functions Data_Management Calculus Advanced_Functions Advanced_Functions None Advanced_Functions Data_Management Calculus None University 
+12 Male Non_MST 0-2 Law 1 Physics 1 Calculus University 
+12 Male Non_MST 0-2 Engineering 3 Physics Physics Chemistry 3 Calculus Advanced_Functions Calculus University 
+11 Male Non_MST 3-5 Arts 4 Physics Physics Chemistry None 1 None College 
+12 Male MST 3-5 Engineering 6 Physics Physics Chemistry None Physics Chemistry 5 Calculus Advanced_Functions Calculus Advanced_Functions Calculus University 
+10 Female MST 0-2 Engineering 1 None 1 None Unsure 
+10 Prefer_not_to_say MST 0-2 Business 1 None 1 None Neither 
+9 Female MST 0-2 Not_sure 1 None 1 None University 
+9 Female MST 0-2 Health_Medicine 1 None 1 None University 
+12 Male MST 0-2 Arts 1 None 2 Advanced_Functions Calculus University 
+12 Female MST 3-5 Arts 1 Physics 2 Advanced_Functions Calculus University 
+12 Female MST 3-5 Arts 3 Physics Biology Chemistry 3 Advanced_Functions Calculus Data_Management Unsure 
+9 Male Non_MST 0-2 Computer_Science 1 None 1 None Unsure 
+9 Male Non_MST 0-2 Not_sure 1 None 1 None University 
+9 Male Non_MST 0-2 Computer_Science 1 None 1 None Unsure 
+9 Male Non_MST 0-2 Business 1 None 1 None Unsure 
+9 Male Non_MST 0-2 Not_sure 1 None 1 None Unsure 
+12 Female MST 0-2 Law 2 Biology Chemistry 2 Advanced_Functions Data_Management University 
+9 Female MST 3-5 Engineering 1 None 1 None University 
+10 Male Non_MST 11+ Not_sure 1 None 1 None Unsure 
+10 Male Non_MST 0-2 Education 1 None 1 None Neither 
+10 Female MST 3-5 Health_Medicine 1 None 1 None University 
+10 Female MST 3-5 Not_sure 1 None 1 None Unsure 
+9 Male MST 0-2 Engineering 1 None 1 None University 
+9 Male MST 3-5 Engineering 1 None 1 None University 
+9 Female Non_MST 0-2 Law 1 None 1 None College 
+11 Male Non_MST 3-5 Arts 1 None 1 None University 
+0 Prefer_not_to_say Non_MST 11+ Choice_not_shown 2 None None 1 None Unsure 
+10 Others MST 0-2 Health_Medicine 1 None 1 None University 
+11 Prefer_not_to_say MST 3-5 Not_sure 1 None 3 None None Biology College 
+12 Male Non_MST 3-5 Engineering 2 Physics Chemistry 3 Advanced_Functions Data_Management Calculus University 

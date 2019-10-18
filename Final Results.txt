@@ -1,0 +1,80 @@
+Main file that shows all the totals for every category.
+Percentages show that specific option in relation to the total for that category.
+
+Grades
+11 participant(s) are in Grade 9.   (26.19%)
+7 participant(s) are in Grade 10.   (16.67%)
+6 participant(s) are in Grade 11.   (14.29%)
+16 participant(s) are in Grade 12.   (38.1%)
+2 participant(s) are in Grade Other.   (4.76%)
+
+Genders
+19 participant(s) are Male.   (45.24%)
+17 participant(s) are Female.   (40.48%)
+2 participant(s) are Other.   (4.76%)
+4 participant(s) chose not to say.   (9.52%)
+
+Classes
+22 participant(s) are in MST.   (52.38%)
+20 participant(s) are not in MST.   (47.62%)
+
+Extracurriculars
+25 participant(s) have 0-2 extracurricular activities.   (59.52%)
+14 participant(s) have 3-5 extracurricular activities.   (33.33%)
+0 participant(s) have 6-10 extracurricular activities.   (0%)
+3 participant(s) have 11+ extracurricular activities.   (7.14%)
+
+Field of Studies
+5 participant(s) chose Arts as their main field of study.   (11.9%)
+5 participant(s) chose Business as their main field of study.   (11.9%)
+1 participant(s) chose Education as their main field of study.   (2.38%)
+7 participant(s) chose Engineering as their main field of study.   (16.67%)
+5 participant(s) chose Computer Science as their main field of study.   (11.9%)
+5 participant(s) chose Health Medicine as their main field of study.   (11.9%)
+0 participant(s) chose Government as their main field of study.   (0%)
+3 participant(s) chose Law as their main field of study.   (7.14%)
+8 participant(s) are Not Sure what their main field of study is.   (19.05%)
+3 participant(s) chose a field that was not shown.   (7.14%)
+
+Sciences
+36 participant(s) are taking/in Physics.   (29.51%)
+12 participant(s) are taking/in Biology.   (9.84%)
+26 participant(s) are taking/in Chemistry.   (21.31%)
+48 participant(s) are not taking any extra sciences.   (39.34%)
+
+Maths
+71 participant(s) are taking/in Advanced Functions.   (38.59%)
+19 participant(s) are taking/in Data Management.   (10.33%)
+55 participant(s) are taking/in Calculus.   (29.89%)
+39 participant(s) are not taking any extra mathematics.   (21.2%)
+
+Post-Secondary Educations
+26 participant(s) are planning to pursue University education.   (61.9%)
+3 participant(s) are planning to pursue College education.   (7.14%)
+4 participant(s) aren't planning to pursue any post-secondary education.   (9.52%)
+9 participant(s) are not sure about post-secondary education.   (21.43%)
+
+Below are the comparisons between answers per person.
+
+Comparison between Grade 9 MSTs in whether they already want to pursue University.
+61.54% of Grade 9 MSTs already decided to pursue University compared to all Grade 9 MSTs.
+
+Comparison between the amount of male and female MSTs.
+Out of 42 MST students: 
+45.24% are male MSTs.
+40.48% are female MSTs.
+14.29% are others.
+
+Comparison between 3 specific post-secondary fields and all of MST.
+Out of 42 MST students: 
+16.67% are in MST and want to pursue Engineering.
+11.9% are in MST and want to pursue Computer Science.
+11.9% are in MST and want to pursue Health & Medicines.
+
+Comparison between the amount of Grade 12s pursuing post-secondary or not.
+Out of 16 Grade 12 students: 
+87.5% will pursue post-secondary education.
+
+Comparison between MST students that take Physics compared to those without Physics.
+Out of 42 MST students: 
+38.1% of MST students take Physics.
